@@ -32,4 +32,8 @@ This dashboard simplifies analysis by transforming raw data into clear visual in
 - Economic comparisons
 - Data summaries and KPIs
 
-SCREENSHOTS
+ ## SCREENSHOTS
+
+![Dashboard](assets/dashboard.png)
+
+![Login](assets/login.png)
