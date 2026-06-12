@@ -36,18 +36,18 @@ This dashboard simplifies analysis by transforming raw data into clear visual in
 
 ![Dashboard](assets/Screenshot%20(217).png)
 
-![Dashboard](assets/Screenshot%20(218.png))
+![Dashboard](assets/Screenshot%20(218).png)
 
-![Dashboard](assets/Screenshot%20(219.png))
+![Dashboard](assets/Screenshot%20(219).png)
 
-![Dashboard](assets/Screenshot%20(220.png))
+![Dashboard](assets/Screenshot%20(220).png)
 
-![Dashboard](assets/Screenshot%20(221.png))
+![Dashboard](assets/Screenshot%20(221).png)
 
-![Dashboard](assets/Screenshot%20(222.png))
+![Dashboard](assets/Screenshot%20(222).png)
 
-![Dashboard](assets/Screenshot%20(223.png))
+![Dashboard](assets/Screenshot%20(223).png)
 
-![Dashboard](assets/Screenshot%20(224.png))
+![Dashboard](assets/Screenshot%20(224).png)
 
-![Dashboard](assets/Screenshot%20(225.png))
+![Dashboard](assets/Screenshot%20(225).png)
