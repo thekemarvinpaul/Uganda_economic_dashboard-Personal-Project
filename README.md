@@ -34,6 +34,20 @@ This dashboard simplifies analysis by transforming raw data into clear visual in
 
  ## SCREENSHOTS
 
-![Dashboard](assets/dashboard.png)
+![Dashboard](assets/Screenshot%20(217))
 
-![Login](assets/login.png)
+![Dashboard](assets/Screenshot%20(218))
+
+![Dashboard](assets/Screenshot%20(219))
+
+![Dashboard](assets/Screenshot%20(220))
+
+![Dashboard](assets/Screenshot%20(221))
+
+![Dashboard](assets/Screenshot%20(222))
+
+![Dashboard](assets/Screenshot%20(223))
+
+![Dashboard](assets/Screenshot%20(224))
+
+![Dashboard](assets/Screenshot%20(225))
